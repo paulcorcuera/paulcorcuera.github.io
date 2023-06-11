@@ -1,4 +1,4 @@
-baseURL: "paulcorcuera.com/" 
+baseURL: "https://paulcorcuera.com/" 
 title: Paul Corcuera
 paginate: 20
 theme: PaperMod
