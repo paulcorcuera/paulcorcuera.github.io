@@ -1,4 +1,4 @@
 ---
 title: "Courses"
-description: "Courses on economic slack, unemployment, macroeconomics, and mathematical methods for macroeconomics. For undergraduate and graduate students."
+description: "I provide my TA notes of courses on econometrics at the undergraduate and graduate level."
 ---
