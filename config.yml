@@ -60,10 +60,10 @@ params:
           imageHeight: 256
           imageTitle: Paul Corcuera
           buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
+            - name: Research
+              url: /research/
+            - name: Teaching
+              url: /teaching/
             - name: Resources
               url: /resources/
     socialIcons:
