@@ -86,7 +86,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Paul Corcuera"
-      icon: /favicon.ico
+      icon: /Peru-Flag.ico
       iconHeight: 18
 
 markup:
