@@ -57,7 +57,7 @@ params:
           subtitle: "I am a PhD candidate at the Vancouver School of Economics, University of British Columbia. My research interests are in labour economics and econometrics."
           imageUrl: "/picture.jpg"
           imageWidth: 170
-          imageHeight: 190
+          imageHeight: 240
           imageTitle: Paul Corcuera
           buttons:
             - name: Papers
