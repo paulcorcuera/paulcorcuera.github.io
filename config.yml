@@ -29,7 +29,7 @@ menu:
 
 
 params:
-    description: "I am a PhD candidate at the Vancouver School of Economics, University of British Columbia. My research interests are in labour economics and econometrics."
+    description: "I am a PhD candidate at the [Vancouver School of Economics](https://economics.ubc.ca/) of the University of British Columbia. My research interests are in labour economics and econometrics."
     author: Paul Corcuera
     googleAnalyticsID: "G-5K2L5KCG58"
     DateFormat: "January 2006"
@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Paul Corcuera
-          subtitle: "I am a PhD candidate at the Vancouver School of Economics, University of British Columbia. My research interests are in labour economics and econometrics."
+          subtitle: "I am a PhD candidate at the [Vancouver School of Economics](https://economics.ubc.ca/) of the University of British Columbia. My research interests are in labour economics and econometrics."
           imageUrl: "/picture.jpg"
           imageWidth: 170
           imageHeight: 256
