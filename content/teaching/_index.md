@@ -25,4 +25,7 @@ description: "I provide my TA notes of courses on econometrics at the undergradu
 
 - **Microeconomics I** (Undergraduate), 2013/12
 
+
+Below you will find some of my teaching material as a TA. 
+
 ---
