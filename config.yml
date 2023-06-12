@@ -31,11 +31,11 @@ menu:
 params:
     description: "I am a PhD candidate at the Vancouver School of Economics, University of British Columbia. My research interests are in labour economics and econometrics."
     author: Paul Corcuera
-    googleAnalyticsID: "G-97G4MZ4061"
+    googleAnalyticsID: "G-5K2L5KCG58"
     DateFormat: "January 2006"
     defaultTheme: auto
     hideFooter: true
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
