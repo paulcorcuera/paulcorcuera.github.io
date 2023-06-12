@@ -5,6 +5,8 @@ description: "I provide my TA notes of courses on econometrics at the undergradu
 
 #### Teaching Assistant @ University of British Columbia 
 
+- **ECON325 Introduction to Econometrics I** (Undergraduate), Summer 2023
+
 - **ECON627 Econometric Theory II** (PhD), Winter 2023/22/21/20
 
 - **ECON628 Topics in Applied Econometrics** (PhD), Fall 2022/21/20
