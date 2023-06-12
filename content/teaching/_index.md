@@ -3,7 +3,7 @@ title: "Teaching"
 description: "I provide my TA notes of courses on econometrics at the undergraduate and graduate level."
 ---
 
-#### Teaching Assistant @ University of British Columbia 
+### Teaching Assistant @ University of British Columbia 
 
 **ECON627 Econometric Theory II** (PhD), Winter 2023/22/21/20
 
@@ -17,7 +17,7 @@ description: "I provide my TA notes of courses on econometrics at the undergradu
 
 **ECON345 Money and Banking** (Undergraduate), Fall 2016
 
-#### Teaching Assistant @ Universidad de Piura 
+### Teaching Assistant @ Universidad de Piura 
 
 **Microeconometrics** (Undergraduate), 2013/12
 
