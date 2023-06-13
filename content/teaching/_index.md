@@ -9,7 +9,11 @@ description: "I provide my TA notes of courses on econometrics at the undergradu
 
 - **ECON627 Econometric Theory II** (PhD), Winter 2023/22/21/20
 
-- **ECON628 Topics in Applied Econometrics** (PhD), Fall 2022/21/20
+- **ECON628 Topics in Applied Econometrics** (PhD), Winter 2023 & Fall 2021/20
+
+- **ECON326 Introduction to Econometrics II** (Undergraduate), Fall 2022
+
+- **ECON327 Introduction to Empirical Methods** (Undergraduate), Fall 2022
 
 - **ECON501 Microeconomics** (Masters), Fall 2019
 
