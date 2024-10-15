@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "My office and mailing addresses at the University of California, Santa Cruz."
+description: "My office and mailing addresses at Universidad de Piura."
 
 ---
 
@@ -12,17 +12,17 @@ description: "My office and mailing addresses at the University of California, S
 #### Mailing address
 
 Economics Department  
-University of British Columbia  
-6000 Iona Drive  
-Vancouver, BC V6K4S3
+Universidad de Piura
+Av. Ramón Mujica 131
+Piura, Peru
 
 ---
 
 #### Office address
 
-Room 433  
-Iona Building  
-University of British Columbia 
+Oficina E221
+Edificio E (Aulario)
+Universidad de Piura
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.2720489000635!2d-123.25373552314855!3d49.27124207139109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672b09dfc238f%3A0xa08d7298f1cda933!2sIona%20Dr%2C%20University%20Endowment%20Lands%2C%20BC!5e0!3m2!1sen!2sca!4v1686449782837!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15894.209940945075!2d-80.6392657!3d-5.1754356!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904a1aa2334c99a3%3A0x21fea7812d217734!2sAulario%20UDEP!5e0!3m2!1sen!2spe!4v1729005290371!5m2!1sen!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
