@@ -2,6 +2,13 @@
 title: "Teaching"
 description: "I provide my TA notes of courses on econometrics at the undergraduate and graduate level."
 ---
+#### Instructor @ Universidad de Piura
+
+- **E2INF Informática para Economistas** (Pregrado)
+
+- **E2DES Economía del Desarrollo** (Pregrado)
+
+- **E2PMA Principios de Macroeconomía** (Pregrado)
 
 #### Teaching Assistant @ University of British Columbia 
 
@@ -30,6 +37,6 @@ description: "I provide my TA notes of courses on econometrics at the undergradu
 - **Microeconomics I** (Undergraduate), 2013/12
 
 
-Below you will find some of my teaching material as a TA. 
+Below you will find some of my teaching material as a TA and instructor.
 
 ---
