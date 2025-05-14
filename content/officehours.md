@@ -8,8 +8,6 @@ description: "Schedule and location for my office hours at Universidad de Piura.
 
 --- 
 
-- Si eres alumno de la Universidad de Piura, por favor reserva aquí tu cita (Ciclo 2025-I):
-
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
@@ -28,5 +26,9 @@ description: "Schedule and location for my office hours at Universidad de Piura.
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
 
+<br>
+<br>
+<br>
+<br>
 
 - If you are not a student at Universidad de Piura and you would like to talk, please [email me](mailto:paulcorcuera.g@gmail.com) to set up a meeting.
