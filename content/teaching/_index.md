@@ -10,6 +10,10 @@ description: "I provide my TA notes of courses on econometrics at the undergradu
 
 - **E2PMA Principios de Macroeconomía** (Pregrado)
 
+- **E2TCP Teoría del Consumidor y Productor** (Pregrado)
+
+- **E3JUEG Teoría de Juegos y Contratos** (Pregrado)
+
 #### Teaching Assistant @ University of British Columbia 
 
 - **ECON325 Introduction to Econometrics I** (Undergraduate), Summer 2023
