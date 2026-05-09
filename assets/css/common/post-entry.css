@@ -56,6 +56,21 @@
     line-height: var(--lineheight);
 }
 
+.research-group {
+    margin-bottom: calc(var(--gap) * 1.5);
+}
+
+.research-group-title {
+    margin: 28px 0 16px;
+    font-size: 22px;
+}
+
+.entry-note {
+    margin-top: 6px;
+    color: var(--secondary);
+    font-size: var(--entrysize);
+}
+
 .entry-content {
     margin: 20px 10px;
     color: var(--secondary);

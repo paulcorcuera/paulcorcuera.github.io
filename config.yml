@@ -56,8 +56,8 @@ params:
           title: Paul Corcuera
           subtitle: "I am an assistant professor in the Department of Economics at Universidad de Piura. I obtained my PhD at the [Vancouver School of Economics](https://economics.ubc.ca/) of the University of British Columbia. My research interests are in labour economics and econometrics."
           imageUrl: "/picture.jpg"
-          imageWidth: 170
-          imageHeight: 256
+          imageWidth: 190
+          imageHeight: 286
           imageTitle: Paul Corcuera
           buttons:
             - name: Research
