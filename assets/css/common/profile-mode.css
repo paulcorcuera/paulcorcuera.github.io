@@ -18,11 +18,11 @@
     top: calc(var(--gap) * -1);
     left: 50%;
     width: 100vw;
-    height: min(48vh, 390px);
+    height: min(42vh, 352px);
     transform: translateX(-50%);
     background:
         linear-gradient(rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.16)),
-        url("/udep_edificioe.jpg") center 46% / cover no-repeat;
+        url("/udep_edificioe.jpg") center top / contain no-repeat;
     pointer-events: none;
     z-index: 0;
 }
