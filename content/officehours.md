@@ -8,6 +8,7 @@ description: "Schedule and location for my office hours at Universidad de Piura.
 
 --- 
 
+
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
@@ -16,15 +17,16 @@ description: "Schedule and location for my office hours at Universidad de Piura.
   var target = document.currentScript;
   window.addEventListener('load', function() {
     calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0COuhBxn6wxmaA53fi1HtBOqQ_gzh87ooKx5mWQWRAjxc3tR-SnrrNXBiQsQxZSWdyQZrWXIP2?gv=true',
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ14LpAcn3OnPH04zHR0QojRQ2nQGzwbhuR0HPujwVSeREp5KIoddLr7-sWgtNveoi0O1P5NHYNL?gv=true',
       color: '#039BE5',
-      label: "Reserva un horario aqu\xED",
+      label: 'Reservar una cita',
       target,
     });
   });
 })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
+
 
 <br>
 <br>
